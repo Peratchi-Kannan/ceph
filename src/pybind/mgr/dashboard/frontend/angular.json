@@ -130,6 +130,8 @@
                 {
                   "replace": "src/environments/environment.ts",
                   "with": "src/environments/environment.prod.ts"
+		  "replace": "src/assets/Ceph_Ceph_Logo_with_text_white.svg",
+                  "with": "src/assets/Ceph_Ceph_Logo_with_text_white_prod.svg"
                 }
               ]
             },
